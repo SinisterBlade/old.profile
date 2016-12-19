@@ -1,0 +1,114 @@
+.navbar {
+  padding: 15px;
+  font-size: 15px;
+  background: #aa4465;
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-default .navbar-nav a:link {
+  color: white;
+}
+.navbar-default .navbar-nav a:visited {
+  color: white;
+}
+.navbar-default .navbar-nav .active a {
+  color: #555;
+}
+.navbar-default .navbar-brand {
+  font-size: 22px;
+  color: white;
+}
+.navbar-default .navbar-brand:visited {
+  color: white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+.about {
+  background-color: #cb958e;
+  padding: 50px;
+  font-size: 25px;
+  color: white;
+}
+
+.about:target {
+  padding-top: 80px;
+}
+
+.profile-img img{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttons-list .col-lg-3 {
+  border: 2px solid white;
+  padding: 10px;
+}
+
+.buttons-list .col-lg-3:hover {
+  background-color: white;
+}
+
+.buttons-list .col-lg-3:hover .button {
+  color: black;
+}
+
+.button {
+  color: white;
+}
+
+.portfolio {
+  background-color: #ccd8b4;
+}
+
+.portfolio:target {
+  padding-top: 80px;
+}
+
+.portfolio-images img {
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.contact {
+  background-color: #b9b3ff;
+  font-size: 25px;
+  color: white;
+  padding-bottom: 40px;
+}
+
+.contact:target {
+  padding-top: 80px;
+}
+
+.awesome-separator {
+  margin: 40px auto 30px;
+  padding: 0;
+  max-width: 512px;
+  border: 0;
+  border-top: solid 5px;
+  text-align: center;
+  color: white;
+}
+
+.header {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.page-footer {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: #aa4465;
+}
+
+body {
+  padding-top: 70px;
+  color: white;
+  height: 100%;
+}
